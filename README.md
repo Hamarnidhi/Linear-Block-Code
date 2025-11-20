@@ -93,9 +93,10 @@ add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 # Output Waveform
-```
-Attach the output waveform
-```
+
+<img width="529" height="582" alt="508791513-aea574bd-f0f9-458c-aaaa-b2a5ca99c888" src="https://github.com/user-attachments/assets/16ce7d1d-36fa-4161-9aaa-8be3fc5f85b6" />
+<img width="503" height="569" alt="508791913-8a32d146-ad6b-41d4-b901-6c8bf473a0d6" src="https://github.com/user-attachments/assets/2dd5f797-f47d-4f03-b095-68397073edac" />
+
 # Results
 ```
 The codes could detect multiple errors and correct single errors. They reduced transmission errors significantly compared to uncoded data. Encoding/decoding remained fast and practical for real-world use. The experiment showed linear block codes improve data reliability without complex computations.
