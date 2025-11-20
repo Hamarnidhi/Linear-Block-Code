@@ -98,8 +98,5 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 <img width="503" height="569" alt="508791913-8a32d146-ad6b-41d4-b901-6c8bf473a0d6" src="https://github.com/user-attachments/assets/2dd5f797-f47d-4f03-b095-68397073edac" />
 
 # Results
-```
+
 The codes could detect multiple errors and correct single errors. They reduced transmission errors significantly compared to uncoded data. Encoding/decoding remained fast and practical for real-world use. The experiment showed linear block codes improve data reliability without complex computations.
-```
-```
-# Hardware experiment output waveform.
